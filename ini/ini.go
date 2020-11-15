@@ -1,8 +1,8 @@
 package ini
 
 import (
-	"github.com/pm-esd/config"
-	"github.com/pm-esd/config/ini/parser"
+	"github.com/pm-redemption/config"
+	"github.com/pm-redemption/config/ini/parser"
 )
 
 // Decoder the ini content decoder

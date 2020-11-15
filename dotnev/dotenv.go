@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pm-esd/config/ini/parser"
+	"github.com/pm-redemption/config/ini/parser"
 )
 
 var (

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pm-esd/config/util/envutil"
+	"github.com/pm-redemption/config/util/envutil"
 )
 
 var (

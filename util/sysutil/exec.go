@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"os/exec"
 
-	"github.com/pm-esd/config/util/strutil"
+	"github.com/pm-redemption/config/util/strutil"
 )
 
 // QuickExec quick exec an simple command line

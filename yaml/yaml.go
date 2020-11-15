@@ -8,7 +8,7 @@ package yaml
 
 // see https://godoc.org/gopkg.in/yaml.v2
 import (
-	"github.com/pm-esd/config"
+	"github.com/pm-redemption/config"
 	"gopkg.in/yaml.v2"
 )
 

@@ -3,7 +3,7 @@ package config
 // default json driver(encoder/decoder)
 import (
 	"encoding/json"
-	"github.com/pm-esd/config/util/jsonutil"
+	"github.com/pm-redemption/config/util/jsonutil"
 )
 
 // JSONAllowComments support write comments on json file.

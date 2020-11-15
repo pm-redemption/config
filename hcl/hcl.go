@@ -4,8 +4,9 @@ import (
 	"errors"
 
 	"github.com/hashicorp/hcl"
-	"github.com/pm-esd/config"
+	"github.com/pm-redemption/config"
 )
+
 // Decoder the hcl content decoder
 var Decoder config.Decoder = hcl.Unmarshal
 
